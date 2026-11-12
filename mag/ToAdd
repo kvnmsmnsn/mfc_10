@@ -1,3 +1,0 @@
-schematic=mfc_10_px.sim
-spice_sym_def="tcl.eval(.include [file normalize ../mag/mfc_10.sim.spice])"
-tclcommand="textwindow [file normalize ../mag/mfc_10.sim.spice]"
